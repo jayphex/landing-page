@@ -1,0 +1,1 @@
+Following along with The Odin Project, this repo is a project in the course in which I will create a web design from scratch following a design they expect me (the student) to replicate. In this project I'll continue to enhance my CSS and HTML skills.
