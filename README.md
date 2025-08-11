@@ -4,3 +4,11 @@ Attributions:
 Bicycle by Shmidt Sergey from <a href="https://thenounproject.com/browse/icons/term/bicycle/" target="_blank" title="Bicycle Icons">Noun Project</a> (CC BY 3.0)
 
 Photo by David McBee: https://www.pexels.com/photo/bicycle-wheel-255934/
+
+Photo by Dó Castle: https://www.pexels.com/photo/man-sitting-beside-bicycle-2270328/
+
+Photo by Chris Peeters: https://www.pexels.com/photo/man-riding-bicycle-12838/
+
+Photo by Pavel Danilyuk: https://www.pexels.com/photo/men-riding-bicycles-on-the-road-5807640/
+
+Photo by mali maeder: https://www.pexels.com/photo/green-road-bicycle-hanged-on-wall-101666/

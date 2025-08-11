@@ -2,14 +2,11 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-self: center;
     font-family: Roboto, sans-serif;
-
-
 }
+
 .header {
     display: flex;
-
 }
 
 
@@ -44,8 +41,13 @@ a {
     color: #f9faf8
 }
 
+.hero-sub {
+    padding-bottom: 8px;
+}
+
 .description {
     display: flex;
+    justify-content: center;
 }
 
 .left {
@@ -53,9 +55,44 @@ a {
 }
 
 .click {
-    background-color: blue;
+    background-color: #3882f6;
     border: none;
     border-radius: 8px;
     padding: 8px 16px;
     cursor: pointer;
+    font-size: 18px;
+    color: white;
+}
+
+.right {
+    padding: 18px;
+}
+
+.info-header {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.card {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.information {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.slideshow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    gap: 30px;
+    padding: 30px;
 }
