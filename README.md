@@ -2,3 +2,5 @@ Following along with The Odin Project, this repo is a project in the course in w
 
 Attributions:
 Bicycle by Shmidt Sergey from <a href="https://thenounproject.com/browse/icons/term/bicycle/" target="_blank" title="Bicycle Icons">Noun Project</a> (CC BY 3.0)
+
+Photo by David McBee: https://www.pexels.com/photo/bicycle-wheel-255934/
