@@ -96,3 +96,19 @@ a {
     gap: 30px;
     padding: 30px;
 }
+
+.quote {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    flex-direction: column;
+    flex: 1;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
