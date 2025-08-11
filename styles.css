@@ -4,7 +4,7 @@ body {
     flex-direction: column;
     font-family: Roboto, sans-serif;
     min-height: 100vh;
-    margin: 0;
+    margin: 0; /* allows for page to span from edge to edge */
 }
 
 .header {
